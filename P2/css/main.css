@@ -555,7 +555,7 @@ label {
 }
 
 .large-card img {
-    max-height: 25rem;
+    height: 25rem;
     width: 100%;
     object-fit: cover;
 }
