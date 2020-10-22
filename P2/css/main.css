@@ -267,9 +267,9 @@ section {
 /* For display purposes (to remove warnings) */
 
 h1 {
-    font-size: calc(4.5rem + 6 * ((4.4rem - 320px) / 680));
+    font-size: calc(3.3rem + 6 * ((4.4rem - 320px) / 680));
     font-weight: 300;
-    line-height: 5rem;
+    line-height: 4rem;
     color: #111;
 }
 
