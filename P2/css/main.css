@@ -78,10 +78,9 @@ body {
     text-decoration: underline;
 }
 
-
 /* Project page */
 
-.project{
+.project {
     background-color: #070707;
     color: white;
 }
@@ -370,12 +369,11 @@ section {
 /* For display purposes (to remove warnings) */
 
 .cover-medium {
-    padding: 20rem 1rem 1rem 1rem;
-    background-color: rgb(15, 15, 15);
+    padding: 5rem 1rem 1rem 1rem;
 }
 
 .cover-medium h1 {
-    color: white;
+    color: black;
 }
 
 .landing {
@@ -396,7 +394,6 @@ section {
     background-position: right;
     background-repeat: no-repeat;
     background-attachment: fixed; */
-
 }
 
 .landing h1 {
