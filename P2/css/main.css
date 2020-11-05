@@ -48,7 +48,7 @@ body {
 }
 
 #more-stories {
-    background: url(/img/more-stories.jpg);
+    background: url(../img/more-stories.jpg);
     padding: 0.1rem 1rem 1rem 1rem;
     color: white;
 }
