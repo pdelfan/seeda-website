@@ -950,7 +950,7 @@ label {
 footer {
     background-color: #13171A;
     color: white;
-    padding: 3rem 1rem 15rem 1rem;
+    padding: 3rem 1rem 10rem 1rem;
 }
 
 footer p {
@@ -969,52 +969,6 @@ footer a:hover {
     color: white;
 }
 
-footer img {
-    width: 8rem;
-}
-
-.footer-contact {
-    background-color: #9E9EAC;
-    color: white;
-}
-
-.contact-wrapper {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
-    padding-right: 1rem;
-    padding-left: 1rem;
-    align-items: center;
-    justify-content: space-between;
-    column-gap: 1rem;
-}
-
-.contact-form {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
-    grid-template-rows: 3.3rem;
-    padding: 0.7rem 0rem 0.7rem 0rem;
-    justify-content: end;
-}
-
-#contact-email {
-    background-color: #D0D0DF;
-    outline: none;
-}
-
-#contact-submit {
-    background-color: white;
-    color: black;
-}
-
-#contact-submit:hover {
-    background-color: black;
-    color: white;
-}
-
-.contact-text {
-    padding: 1rem 0rem 1rem 0rem;
-    font-size: 1.3rem;
-}
 
 .wrap-footer {
     max-width: 75rem;
@@ -1032,6 +986,17 @@ footer img {
     display: inline-grid;
     row-gap: 0.5rem;
 }
+
+
+.contact-list .button-nav {
+    background-color: white;
+    color: black;
+}
+
+.contact-list .button-nav:hover {
+    background-color: #bbb;
+}
+
 
 .copyright {
     color: #bbb;
