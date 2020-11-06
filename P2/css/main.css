@@ -350,8 +350,8 @@ h4 {
 }
 
 .project-title {
-    font-size: calc(4.5rem + 6 * ((4.4rem - 320px) / 680));
-    line-height: 6rem;
+    font-size: calc(3.1rem + 6 * ((4.4rem - 320px) / 680));
+    line-height: 4rem;
     font-weight: 400;
     margin-block-end: 0;
     max-width: 60rem;
